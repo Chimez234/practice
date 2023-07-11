@@ -29,3 +29,5 @@ starttomcat
 sudo su - ec2-user
 echo "end on tomcat installation by engr. Kingsley"
 
+pat4kc---->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
+
